@@ -1,0 +1,29 @@
+{
+    "inbounds": [{
+        "port": 10086, // 客户端监听端口
+        "protocol": "socks", // 入口协议为 SOCKS5
+        "sniffing": {
+            "enabled": true,
+            "destOverride": [
+                "http",
+                "tls"
+            ]
+        },
+        "settings": {
+            "auth": "noauth" //socks的认证设置，noauth 代表不认证，由于 socks 通常在客户端使用，所以这里不认证
+        }
+    }],
+    "outbounds": [{
+        "protocol": "vmess", // 出口协议
+        "settings": {
+            "vnext": [{
+                "address": "", // 服务器地址
+                "port": , // 服务器端口，有时需手动开放
+                "users": [{
+                    "id": "", // 用户 ID，必须与服务器端配置相同
+                    "alterId": 64 // 此处的值也应当与服务器相同
+                }]
+            }]
+        }
+    }]
+}

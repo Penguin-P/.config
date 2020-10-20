@@ -1,0 +1,11 @@
+set recolor-darkcolor  "#323d43"
+set recolor-lightcolor "#d8caac"
+set selection-clipboard clipboard
+map u scroll up
+map e scroll down
+map n zoom out
+map i zoom in
+map U scroll half-up
+map E scroll half-down
+map = search next
+map - search previous
