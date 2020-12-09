@@ -1,4 +1,4 @@
-# personal memo
+# memo
 **v2ray** :<br/>
 [v2ray releases](https://github.com/v2ray/v2ray-core/releases) <br/>
 [v2ray 文档](https://www.v2ray.com/en/) <br/>
