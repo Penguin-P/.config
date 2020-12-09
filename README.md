@@ -35,8 +35,8 @@ sudo chsh -s /path/to/shell
 [typora](https://typora.io/) <br/>
 flameshot<br/>
 
-**bilibili ups (!!!感谢!!!)** : <br/>
+
 [https://space.bilibili.com/13081489/](https://space.bilibili.com/13081489/)  <br/>
 [https://space.bilibili.com/27454702/](https://space.bilibili.com/27454702/) <br/>
-**Youtubers(thanks!)** :<br/>
+
 [https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) <br/>
